@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Real-time MERN Chat Application
 
 A full-stack, real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js), Socket.IO, and Tailwind CSS.
@@ -44,3 +45,6 @@ CLOUDINARY_API_SECRET="your_api_secret"
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+=======
+# Chat-App
+>>>>>>> 0cf17eb9c8d12f572d090f2c2d22fd8162e190dc
